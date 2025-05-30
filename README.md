@@ -12,7 +12,7 @@ The FundMe smart contract is a crowdfunding platform built on Ethereum using Sol
 - **Contributor Tracking**: Records user addresses and contribution amounts
 - **Owner Withdrawal**: Owner can withdraw when the goal is met or under specific conditions
 - **Transparency**: Emits events for contributions and withdrawals
-- **Safety Features**: Prevents unauthorized withdrawals and enforces minimum contribution
+- **Safety Features**: Prevents unauthorised withdrawals and enforces minimum contribution
 
 ---
 
